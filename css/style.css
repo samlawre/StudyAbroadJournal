@@ -188,7 +188,7 @@ nav img{
 } */
 
 .first{
-    background-color: aqua;
+    background-color: rgb(88, 201, 154);
     padding: auto;
     border: 2px solid black;
 }
@@ -216,19 +216,37 @@ nav ul{
 }
 
 .second{
-    background-color: pink;
+    background-color: #2A9D8F;
     padding: auto;
     border: 2px solid black;
 }
 
 .third{
-    background-color: lightgreen;
+    background-color: #E9C46A;
     padding: auto;
     border: 2px solid black;
 }
 
 .fourth{
-    background-color: lightyellow;
+    background-color: lightseagreen;
+    padding: auto;
+    border: 2px solid black;
+}
+
+.fifth{
+    background-color: #E76F51;
+    padding: auto;
+    border: 2px solid black;
+}
+
+.sixth{
+    background-color: rgb(111, 203, 111);
+    padding: auto;
+    border: 2px solid black;
+}
+
+.seven{
+    background-color: #F4A261;
     padding: auto;
     border: 2px solid black;
 }
@@ -437,7 +455,7 @@ figcaption{
 
 .active a{ /*this part is what makes the header chnage color (make nav have active in right page)*/
     text-decoration: underline;
-    color: blue;
+    color: rgb(255, 255, 255);
 }
 
 .e p{
