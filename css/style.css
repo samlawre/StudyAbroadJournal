@@ -216,13 +216,13 @@ nav ul{
 }
 
 .second{
-    background-color: #E9C46A;
+    background-color: #2A9D8F;
     padding: auto;
     border: 2px solid black;
 }
 
 .third{
-    background-color: #2A9D8F;
+    background-color: rgb(220, 123, 139);
     padding: auto;
     border: 2px solid black;
 }
@@ -455,6 +455,7 @@ figcaption{
 
 .active a{ /*this part is what makes the header chnage color (make nav have active in right page)*/
     text-decoration: underline;
+    font-weight:bold;
     color: rgb(255, 255, 255);
 }
 
