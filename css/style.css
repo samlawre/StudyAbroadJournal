@@ -476,7 +476,7 @@ figcaption{
     }
 
 @media only screen and (min-width: 850px){
-    nav{
+    /* nav{
         display: flex;
         justify-content: space-between;
     }
@@ -503,7 +503,7 @@ figcaption{
         -ms-flex-preferred-size: 0;
         flex-basis: 0;
         margin: 0 5px;
-    }
+    } */
 
     footer{
         display:grid;
