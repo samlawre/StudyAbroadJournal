@@ -216,19 +216,19 @@ nav ul{
 }
 
 .second{
-    background-color: #2A9D8F;
-    padding: auto;
-    border: 2px solid black;
-}
-
-.third{
     background-color: #E9C46A;
     padding: auto;
     border: 2px solid black;
 }
 
+.third{
+    background-color: #2A9D8F;
+    padding: auto;
+    border: 2px solid black;
+}
+
 .fourth{
-    background-color: lightseagreen;
+    background-color: rgb(157, 111, 62);
     padding: auto;
     border: 2px solid black;
 }
